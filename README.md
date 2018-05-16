@@ -1,4 +1,4 @@
 # SeeBee
 
-\<bee picture here\>
+\<bee picture here\>  
 label here
